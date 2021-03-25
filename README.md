@@ -39,7 +39,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![gif](https://cdn.glitch.com/071a68af-4c69-48e2-8754-fb46a657a132%2Flight-sound-game.gif?v=1616644911122)
+![gif](https://github.com/yuyeon/light-and-sound-game/blob/main/light-sound-game.gif)
 
 
 ## Reflection Questions
